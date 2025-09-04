@@ -30,7 +30,7 @@
 
 - _Insert your directory structure_
 
-e.g.
+File Tree
 ```
 ├── code
 │   ├── jupyter_notebooks
