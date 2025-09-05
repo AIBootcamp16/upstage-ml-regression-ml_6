@@ -6,23 +6,27 @@
 |            [최현](https://github.com/UpstageAILab)             |            [임환석](https://github.com/UpstageAILab)             |            [윤소영](https://github.com/UpstageAILab)             |            [김종범](https://github.com/UpstageAILab)             |            [권효주](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
-## 0. 프로젝트 내용
-### Environment
-- 서울시의 집값 예측 프로젝트
+## 0. 개요
+### 서울시의 집 값 예측 프로젝트
 
 ### Requirements
 - _Write Requirements_
 
 ## 1. Competiton Info
 
-### Overview
+### Task
 
-- _Write competition information_
+* 데이터 확인 및 수집
+* 데이터 전처리 및 EDA
+* 모델링
+* 파라미터 수정
+* 결과 정리
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- 9/1 ~ 9/3 이론 공부
+- 9/4 첫 미팅 후 환경 작업 환경 세팅
+- 9/5 두번째 미팅
 
 ## 2. Components
 
@@ -35,7 +39,7 @@ File Tree
 ├── data
 │   ├── test.csv
 │   └── train.csv
-├── notebooks  
+├── notebooks 
 │   
 └── output
 
