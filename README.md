@@ -6,9 +6,9 @@
 |            [최현](https://github.com/UpstageAILab)             |            [임환석](https://github.com/UpstageAILab)             |            [윤소영](https://github.com/UpstageAILab)             |            [김종범](https://github.com/UpstageAILab)             |            [권효주](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
-## 0. Overview
+## 0. 프로젝트 내용
 ### Environment
-- _Write Development environment_
+- 서울시의 집값 예측 프로젝트
 
 ### Requirements
 - _Write Requirements_
