@@ -66,12 +66,28 @@
 
 File Tree
 ```
+├── baseline_code
+│   ├── baseline_code.ipynb
+│   └── requirements.txt
 ├── data
-│   ├── test.csv
-│   └── train.csv
-├── notebooks 
-│   
-└── output
+│   ├── bus_feature.csv
+│   ├── readme.txt
+│   ├── sample_submission.csv
+│   └── test.csv
+│
+│
+├── notebooks
+│
+│
+│
+│
+│
+│
+│
+│
+├── output
+│
+├── screenshot
 
 ```
 
