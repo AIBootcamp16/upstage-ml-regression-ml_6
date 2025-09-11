@@ -20,7 +20,7 @@
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/156163982?v=4" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/39229081?v=4" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/156163982?v=4" width="250" height="300"/> </td>
-    <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/156163982?v=4" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U0960JE97NW-fd9ca66411f0-512" width="250" height="300"/> </td>
      <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/220303245?v=4" width="250" height="300"/> </td>
   </tr>
   <tr>
