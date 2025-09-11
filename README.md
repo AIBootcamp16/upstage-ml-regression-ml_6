@@ -54,7 +54,7 @@
 - 9/4 첫 미팅 - 계획수립
 - 9/5~ 12 Zoom 을 통해 실시간 소통 및 상호 feedback
 
-- ### Evaluation
+### Evaluation
 
 - RMSE 지표를 활용
   
