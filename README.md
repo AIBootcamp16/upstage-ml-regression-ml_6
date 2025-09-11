@@ -54,6 +54,12 @@
 - 9/4 첫 미팅 - 계획수립
 - 9/5~ 12 Zoom 을 통해 실시간 소통 및 상호 feedback
 
+- ### Evaluation
+
+- RMSE 지표를 활용
+  
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/5cfa5fdc-7256-4972-98af-f15ad54f8361)
+
 ## 2. Components
 
 ### Directory
