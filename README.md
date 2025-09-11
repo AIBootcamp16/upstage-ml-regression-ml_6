@@ -67,26 +67,26 @@
 File Tree
 ```
 ├── baseline_code
-│   ├── baseline_code.ipynb
-│   └── requirements.txt
+│   ├── baseline_code.ipynb        # 베이스라인 코드(원본)
+│   └── requirements.txt           # 필요 환경
 ├── data
-│   ├── bus_feature.csv
-│   ├── readme.txt
-│   ├── sample_submission.csv
-│   └── test.csv
-├── notebooks
-│   ├── Choi
-│   │    └── Private
+│   ├── bus_feature.csv            # 원본 데이터
+│   ├── readme.txt                 # 사전에 확인바람!  
+│   ├── sample_submission.csv      # 원본 데이터
+│   └── test.csv                   # 원본 데이터
+├── notebooks                      # 개별 작업 공간
+│   ├── Choi                       # 최현 Private 폴더
+│   │    └── Private               # nothing
 │   ├── Kim
-│   ├── Kwon
-│   ├── Lim
-│   └── Yoon
-├── output
-│   └── output.csv
-├── screenshot
-│   └── 스터디 그룹.PNG
-├── .gitignore                     #
-└── README.md                      #Team project Overview
+│   ├── Kwon                       # 권효주 Private 폴더
+│   ├── Lim                        # 임환석 Private 폴더
+│   └── Yoon                       # 윤소영 Private 폴더
+├── output                         # output.csv 파일 업로드 폴더
+│   └── output.csv                 # 원본 베이스라인코드 결과물
+├── screenshot                     # 이미지 파일폴더
+│   └── 스터디 그룹.PNG            # scaduled
+├── .gitignore                     # .gitigronre
+└── README.md                      # Team project Overview
 
 ```
 
