@@ -24,7 +24,7 @@
     <td> <img alt="Github" src ="" width="250" height="300"/> </td>
   </tr>
   <tr>
-    <td> <div align=center> <a href=""> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    <td> <div align=center> <a href="https://github.com/yagopji"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href="https://github.com/hwan-han"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href="https://github.com/kirin72"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href="https://github.com/yourhotb"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
