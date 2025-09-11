@@ -31,8 +31,6 @@
      <td> <div align=center> <a href="https://github.com/yagopji"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     </tr>
 </table>
-## 0. 개요
-### 서울시의 집 값 예측 프로젝트
 
 ### Requirements
 
