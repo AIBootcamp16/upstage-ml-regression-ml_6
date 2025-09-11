@@ -88,6 +88,9 @@ File Tree
 ├── output
 │
 ├── screenshot
+│
+├── .gitignore
+└── README.md
 
 ```
 
