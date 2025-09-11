@@ -62,8 +62,6 @@
 
 ### Directory
 
-- _Insert your directory structure_
-
 File Tree
 ```
 ├── baseline_code
