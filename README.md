@@ -1,5 +1,5 @@
 # House Price Prediction | 아파트 실거래가 예측
-## Team
+## Team6
 
 <table>
   <tr>
@@ -50,11 +50,10 @@
 
 ### Timeline
 
-- 9/1 ~ 9/3 이론 공부
-- 9/4 첫 미팅 후 환경 작업 환경 세팅
-- 9/5 두번째 미팅
-- 9/7 세번째 미팅
-- 
+- 9/1 ~ 9/5 Machine Learning Advanced & Machine Learning [대회] Regression 강의 시청
+- 9/4 첫 미팅 - 계획수립
+- 9/5~ 12 Zoom 을 통해 실시간 소통 및 상호 feedback
+
 ## 2. Components
 
 ### Directory
