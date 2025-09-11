@@ -17,7 +17,7 @@
     <td> <div align=center> <b>최현</b> </div> </td>
   </tr>
   <tr>
-    <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/156163982?v=4" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://png.pngtree.com/thumb_back/fh260/background/20230613/pngtree-the-high-man-jesus-is-standing-up-among-the-clouds-image_2974129.jpg" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/39229081?v=4" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U096YNDM3CZ-94526243865c-512" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U0960JE97NW-fd9ca66411f0-512" width="250" height="300"/> </td>
