@@ -84,7 +84,7 @@ File Tree
 ├── output                         # output.csv 파일 업로드 폴더
 │   └── output.csv                 # 원본 베이스라인코드 결과물
 ├── screenshot                     # 이미지 파일폴더
-│   └── 스터디 그룹.PNG            # scaduled
+│   └── 스터디 그룹.PNG             # scaduled
 ├── .gitignore                     # .gitigronre
 └── README.md                      # Team project Overview
 
