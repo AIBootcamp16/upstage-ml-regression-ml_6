@@ -74,23 +74,19 @@ File Tree
 │   ├── readme.txt
 │   ├── sample_submission.csv
 │   └── test.csv
-│
-│
 ├── notebooks
-│
-│
-│
-│
-│
-│
-│
-│
+│   ├── Choi
+│   │    └── Private
+│   ├── Kim
+│   ├── Kwon
+│   ├── Lim
+│   └── Yoon
 ├── output
-│
+│   └── output.csv
 ├── screenshot
-│
-├── .gitignore
-└── README.md
+│   └── 스터디 그룹.PNG
+├── .gitignore                     #
+└── README.md                      #Team project Overview
 
 ```
 
