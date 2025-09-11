@@ -9,10 +9,11 @@
     <td> <div align=center>  3 </div> </td>
   </tr>
   <tr>
-    <td> <div align=center> <b>서상혁</b> </div> </td>
-    <td> <div align=center> <b>김도연</b> </div> </td>
-    <td> <div align=center> <b>김다운</b> </div> </td>
-    <td> <div align=center> <b>신동혁</b> </div> </td>
+    <td> <div align=center> <b>최현</b> </div> </td>
+    <td> <div align=center> <b>임환석</b> </div> </td>
+    <td> <div align=center> <b>김종범</b> </div> </td>
+    <td> <div align=center> <b>윤소영</b> </div> </td>
+    <td> <div align=center> <b>권효주</b> </div> </td>
   </tr>
   <tr>
     <td> <img alt="Github" src ="" width="250" height="300"/> </td>
