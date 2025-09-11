@@ -3,32 +3,35 @@
 
 <table>
   <tr>
-    <td> <div align=center> 👑 </div> </td>
-    <td> <div align=center>  1 </div> </td>
-    <td> <div align=center>  2 </div> </td>
-    <td> <div align=center>  3 </div> </td>
-    <td> <div align=center>  4 </div> </td>
+    <td> <div align=center> ![ThjesusGIF](https://github.com/user-attachments/assets/5fa6752d-9f83-48d4-8241-d0aad7cb3d09)
+ </div> </td>
+    <td> <div align=center> ![NiceMenGIF](https://github.com/user-attachments/assets/d4481b82-4617-4483-afb0-9b8aed3d9347)
+ </div> </td>
+    <td> <div align=center> ![FlowerRoseGIF](https://github.com/user-attachments/assets/01ef7cd4-8363-449c-ba5c-f0ac5bfc52bb)
+ </div> </td>
+    <td> <div align=center>   </div> </td>
+    <td> <div align=center>   </div> </td>
   </tr>
   <tr>
-    <td> <div align=center> <b>최현</b> </div> </td>
     <td> <div align=center> <b>임환석</b> </div> </td>
     <td> <div align=center> <b>김종범</b> </div> </td>
     <td> <div align=center> <b>윤소영</b> </div> </td>
     <td> <div align=center> <b>권효주</b> </div> </td>
+    <td> <div align=center> <b>최현</b> </div> </td>
   </tr>
   <tr>
-    <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/220303245?v=4" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/156163982?v=4" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/39229081?v=4" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/156163982?v=4" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/156163982?v=4" width="250" height="300"/> </td>
+     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/220303245?v=4" width="250" height="300"/> </td>
   </tr>
   <tr>
-    <td> <div align=center> <a href="https://github.com/yagopji"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href="https://github.com/hwan-han"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href="https://github.com/kirin72"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href="https://github.com/yourhotb"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href=""> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+     <td> <div align=center> <a href="https://github.com/yagopji"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     </tr>
 </table>
 ## 0. 개요
