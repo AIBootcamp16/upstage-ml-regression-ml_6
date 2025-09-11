@@ -3,14 +3,11 @@
 
 <table>
   <tr>
-    <td> <div align=center> ![ThjesusGIF](https://github.com/user-attachments/assets/5fa6752d-9f83-48d4-8241-d0aad7cb3d09)
- </div> </td>
-    <td> <div align=center> ![NiceMenGIF](https://github.com/user-attachments/assets/d4481b82-4617-4483-afb0-9b8aed3d9347)
- </div> </td>
-    <td> <div align=center> ![FlowerRoseGIF](https://github.com/user-attachments/assets/01ef7cd4-8363-449c-ba5c-f0ac5bfc52bb)
- </div> </td>
-    <td> <div align=center>   </div> </td>
-    <td> <div align=center>   </div> </td>
+    <td> <div align=center> 👑 </div> </td>
+    <td> <div align=center> 🧔🏽‍♂️ </div> </td>
+    <td> <div align=center> 🌹 </div> </td>
+    <td> <div align=center> 👨🏻‍🎓 </div> </td>
+    <td> <div align=center> ✏️ </div> </td>
   </tr>
   <tr>
     <td> <div align=center> <b>임환석</b> </div> </td>
