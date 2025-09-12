@@ -88,7 +88,7 @@ sudo apt-get install -y fonts-nanum
     └── sample_submission.csv      # 제출 양식 예시                
 ├── notebooks                      # 개별 작업 공간
 ├── src                            # 전처리/모델링 작업 공간                  
-├── output                         # 산물 저장 공간                
+├── output                         # 산출물 저장 공간                
 └── README.md                      
 
 ```
@@ -174,7 +174,7 @@ train.csv + test.csv
   - LightGBM이 범주형 변수를 효율적으로 처리할 수 있게 최적화  
 
 - **하이퍼파라미터**  
-  - `n_estimators=5000`, `learning_rate=0.05`, `subsample=0.8`, `colsample_bytree=0.8`  
+  - `n_estimators=1000`, `learning_rate=0.05`, `subsample=0.8`, `colsample_bytree=0.8`  
   - `early_stopping_rounds=50` → 과적합 방지 목적  
 
 - **타깃 변환**  
