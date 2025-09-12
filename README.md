@@ -83,7 +83,7 @@ sudo apt-get install -y fonts-nanum
 ├── data                           # 대회 제공 원본 데이터 공간
 │   ├── bus_feature.csv            
 │   ├── subway_feature.csv
-│   ├── train.csv                
+│   ├── train.parquet              # 용량 문제로 변환 후 업로드                
 │   ├── test.csv
     └── sample_submission.csv      # 제출 양식 예시                
 ├── notebooks                      # 개별 작업 공간
