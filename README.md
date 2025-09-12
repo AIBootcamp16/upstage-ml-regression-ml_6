@@ -20,7 +20,7 @@
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/39229081?v=4" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U096YNDM3CZ-94526243865c-512" width="250" height="300"/> </td>
     <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U0960JE97NW-fd9ca66411f0-512" width="250" height="300"/> </td>
-     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/220303245?v=4" width="250" height="300"/> </td>
+     <td> <img alt="Github" src ="https://ca.slack-edge.com/T095CFN0ZT6-U0962TWVBQC-aec331b4f3e1-512" width="250" height="300"/> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/hwan-han"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
